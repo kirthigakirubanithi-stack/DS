@@ -845,19 +845,28 @@ Enter your choice: 0
 Exiting...
 
 =============EX 12============
+===== LIBRARY MANAGEMENT SYSTEM =====
 
-Enter how many students: 2 
-Enter name and roll number for student 0 : ARUN 4211101 
-Enter name and roll number for student 1 : KUMAR 4211102 
-Enter marks of student 0 for subject 0 : 78 
-Enter marks of student 0 for subject 1 : 98 
-Enter marks of student 0 for subject 2 : 67 
-Enter marks of student 1 for subject 0 : 78 
-Enter marks of student 1 for subject 1 : 55 
-Enter marks of student 1 for subject 2 : 57 
-Total marks obtained by student ARUN are 243n 
-Total marks obtained by student KUMAR are 190n 
-Student ARUN got maximum marks = 78 in Subject : 0 
-Student ARUN got maximum marks = 98 in Subject : 1 
-Student ARUN got maximum marks = 67 in Subject : 2 
-ARUN obtained the total highest marks.
+1. Add Book
+2. Display Books
+3. Search Book
+4. Issue Book
+5. Return Book
+6. Exit
+
+Enter Your Choice: 1
+
+Enter Book ID: 101
+Enter Book Name: Java Programming
+Enter Author Name: James
+
+Book Added Successfully!
+
+Enter Your Choice: 2
+
+--- BOOK DETAILS ---
+
+Book ID: 101
+Book Name: Java Programming
+Author: James
+Status: Available
